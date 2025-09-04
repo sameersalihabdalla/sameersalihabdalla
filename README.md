@@ -15,7 +15,6 @@
 +249912230352  
 البريد الإلكتروني: sameerssaom@gmail.com  
 الموقع: [www.jobsagent.org](https://www.jobsagent.org)  
-روابط: LinkedIn – Mostagl – Facebook – Twitter
 
 ---
 
@@ -106,7 +105,6 @@ Phone:
 +249912230352  
 Email: sameerssaom@gmail.com  
 Website: [www.jobsagent.org](https://www.jobsagent.org)  
-Links: LinkedIn – Mostagl – Facebook – Twitter
 
 ---
 
