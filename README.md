@@ -7,7 +7,7 @@
 
 **مبرمج ومطور نظم ومواقع ويب، ومدير مشاريع تقنية**
 
-مواليد: 30 يناير 1988  
+مواليد: 30 يناير   
 الجنسية: سوداني  
 الهاتف:  
 +249999249900  
@@ -97,7 +97,7 @@
 
 **Programmer, Web Developer & Systems Analyst**
 
-Born: January 30, 1988  
+Born: January 30  
 Nationality: Sudanese  
 Phone:  
 +249999249900  
