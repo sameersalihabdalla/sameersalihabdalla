@@ -92,7 +92,6 @@
     </td>
     
     <td width="50%">
-
 # 👨‍💻 Sameer Salih Abdalla
 
 **Programmer, Web Developer & Systems Analyst**
