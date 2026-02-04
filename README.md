@@ -71,6 +71,7 @@ GPA: 3.46
 - AirAC – Civil & Military Drone Management (2023)  
 - Pro Insurance – Comprehensive Car Insurance  
 - Insurance Plus – Emergency Third-Party Auto Insurance System (2024)
+- SAIS - Smart Auto Insurance System
 
 ---
 
