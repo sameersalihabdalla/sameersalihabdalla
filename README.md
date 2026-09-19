@@ -2,7 +2,7 @@
 ### **Senior Programmer, Web Developer & Systems Analyst**
 
 <p align="center">
-  <img src="1.png" alt="Sameer Salih" width="160" height="160" style="border-radius: 50%; object-fit: cover;" />
+  <img src="1.png" alt="Sameer Salih"  height="200" style="border-radius: 50%; object-fit: cover;" />
 </p>
 
 <p align="center">
