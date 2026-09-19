@@ -1,16 +1,21 @@
 # 👨‍💻 Sameer Salih Abdalla
 ### **Senior Programmer, Web Developer & Systems Analyst**
 
-<p align="left">
+<p align="center">
+  <img src="screens/1.png" alt="Sameer Salih" width="160" height="160" style="border-radius: 50%; object-fit: cover;" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/sameerssaom"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sameerssaom@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.jobsagent.org"><img src="https://img.shields.io/badge/Website-2B6CB0?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://sameersalih.site"><img src="https://img.shields.io/badge/Website-2B6CB0?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://mostaql.com/u/sameerssaom"><img src="https://img.shields.io/badge/Mostaql-0080FF?style=for-the-badge&logo=freelancer&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 🧠 Professional Summary
-Versatile and detail-oriented Systems Analyst and Full-Stack Developer with over a decade of experience designing, developing, and maintaining robust software solutions. Proven track record in building specialized systems, including insurance management platforms, recruitment portals, and POS software. Expert in database management, network infrastructure, and cross-platform development, combining technical excellence with strategic business operations.
+Versatile and detail-oriented Systems Analyst and Full-Stack Developer with over a decade of experience designing, developing, and maintaining robust software solutions. Proven track record in building specialized enterprise systems, including digital banking platforms, insurance management portals, recruitment boards, and point-of-sale software. Expert in database optimization, secure web applications, and cross-platform architecture, combining technical excellence with strategic business operations.
 
 ---
 
@@ -18,9 +23,9 @@ Versatile and detail-oriented Systems Analyst and Full-Stack Developer with over
 
 | Category | Technologies & Languages |
 | :--- | :--- |
-| 💻 **Programming Languages** | `PHP`, `JavaScript`, `HTML5`, `CSS3`, `VB.NET`, `VB6`, `Kotlin`, `C#`, `C++` |
-| 🚀 **Frameworks & CMS** | `Laravel`, `WordPress`, `Blogger` |
-| 🗄️ **Databases & IDEs** | `SQLyog`, `Visual Studio Code`, `Android Studio`, `Dreamweaver` |
+| 💻 **Programming Languages** | `PHP`, `JavaScript`, `HTML5`, `CSS3`, `VB.NET`, `VB6`, `Kotlin`, `C#`, `C++`, `SQL` |
+| 🚀 **Frameworks & CMS** | `Laravel`, `Flutter`, `WordPress`, `Blogger` |
+| 🗄️ **Databases & Tools** | `MySQL`, `phpMyAdmin`, `SQLyog`, `Visual Studio Code`, `Android Studio`, `Visual Studio` |
 | 🎨 **Design & UI/UX** | `Adobe Photoshop`, `Adobe XD`, `Adobe Illustrator`, `Corel Draw` |
 | 🌐 **Networks & OS** | `CCNA`, `Cisco Packet Tracer`, `Windows`, `Linux`, `macOS` |
 
@@ -29,9 +34,9 @@ Versatile and detail-oriented Systems Analyst and Full-Stack Developer with over
 ### 💼 Work Experience
 
 #### 🔹 Founder & Lead Developer | [JobsAgent.org](https://www.jobsagent.org)
-* **2023 – 2024**
-* Designed, developed, and launched an advanced recruitment platform.
-* Managed system architecture, database optimization, and user experience deployment.
+* **2023 – Present**
+* Designed, developed, and launched an advanced recruitment and job board platform.
+* Managed system architecture, database optimization, and high-traffic user experience.
 
 #### 🔹 Senior Programmer | **Sudanese Reinsurance Company (SUDINRECO)**
 * **2013 – 2023**
@@ -64,42 +69,67 @@ Versatile and detail-oriented Systems Analyst and Full-Stack Developer with over
 
 ---
 
-### 🧪 Key Projects
+### 🚀 GitHub Repositories & Key Projects
 
-<blockquote>
-  <h3>📱 SAIS (Smart Auto Insurance System)</h3>
-  <p>An intelligent, next-generation automation platform for vehicular insurance operations.</p>
-</blockquote>
+> <h3>💳 Smarter-Pay</h3>
+> <p>Advanced digital banking and secure mobile payment platform (PAY app) featuring NFC contactless payments and verified cryptographic receipts.</p>
+> <p><code>Flutter</code> <code>HTML</code> <code>PHP</code> <code>MySQL</code></p>
 
-<blockquote>
-  <h3>🚗 Insurance Plus (2024)</h3>
-  <p>Emergency Third-Party Auto Insurance system streamlining policy issuance and instant transactions.</p>
-</blockquote>
+> <h3>🌐 Sameer (Personal Website)</h3>
+> <p>Personal portfolio website showcasing professional experience and systems development.</p>
+> <p><code>PHP</code></p>
 
-<blockquote>
-  <h3>🛡️ Pro Insurance</h3>
-  <p>Comprehensive, end-to-end management system for motor comprehensive insurance workflows.</p>
-</blockquote>
+> <h3>🛒 Sampharma-System</h3>
+> <p>The comprehensive point of sale and cashier system for your business and large pharmacies.</p>
+> <p><code>Visual Basic .NET</code> <code>MySQL</code> <code>Stock Management</code> <code>phpMyAdmin</code></p>
 
-<blockquote>
-  <h3>🛸 AirAC (2023)</h3>
-  <p>Specialized control and log management system for civil and military drone operations.</p>
-</blockquote>
+> <h3>🚗 Missing-Cars-Recovery-MCR</h3>
+> <p>Specialized tracking and engine database management system for missing cars recovery records.</p>
+> <p><code>PHP</code> <code>HTML5 Canvas</code> <code>MySQL</code> <code>Database</code></p>
 
-<blockquote>
-  <h3>📊 Acco Project & Clients Manager (2013 – 2023)</h3>
-  <p>Long-term core customer accounting and database record systems built for enterprise efficiency and security.</p>
-</blockquote>
+> <h3>💼 JobsAgent / JobsAgent---jobs-Board-Platform</h3>
+> <p>JobsAgent - Advanced job board platform and recruitment management system.</p>
+> <p><code>PHP 7</code> <code>MySQL</code> <code>Web</code></p>
 
-<blockquote>
-  <h3>🛒 EsaStore (2019)</h3>
-  <p>Full-featured Point of Sale (POS) system deployed and operating in retail stores and large pharmacies.</p>
-</blockquote>
+> <h3>training Tarteel-Training-Management-System</h3>
+> <p>Comprehensive training management platform for tracking training programs, collections, and financial systems.</p>
+> <p><code>PHP</code> <code>MySQL</code> <code>Collection System</code></p>
 
-<blockquote>
-  <h3>☕ RCasher (2016)</h3>
-  <p>Lightweight, efficient management and billing system for restaurants, cafés, and smart table ordering.</p>
-</blockquote>
+> <h3>🛡️ SAIS-SYS (Smart Auto Insurance System)</h3>
+> <p>Smart auto insurance automation platform for third-party policies and vehicle records.</p>
+> <p><code>PHP 7</code> <code>PHP 8</code> <code>MySQL</code> <code>Insurance</code></p>
+
+> <h3>🎯 Shooting-Game</h3>
+> <p>Interactive target system control and shooter game development for Windows environment.</p>
+> <p><code>Visual Basic .NET</code> <code>WinForms</code> <code>Game Development</code></p>
+
+> <h3>🏢 IOM (Insurance Office Management)</h3>
+> <p>Car insurance office management system, accounting records, and book management.</p>
+> <p><code>PHP</code> <code>MySQL</code> <code>Accounting</code></p>
+
+> <h3>👁️ Guardian-eyes</h3>
+> <p>Guardian Eyes Information Technology web platform and camera monitoring solutions.</p>
+> <p><code>HTML</code> <code>PHP</code> <code>CSS</code> <code>phpMyAdmin</code> <code>MIT License</code></p>
+
+> <h3>📋 ClientsManager</h3>
+> <p>Auto insurance office administration and client management system.</p>
+> <p><code>Visual Basic .NET</code> <code>MySQL</code> <code>Admin</code> <code>MIT License</code></p>
+
+> <h3>💳 Camip-Esa-Store</h3>
+> <p>Multi-branch Point of Sale (POS) system, sales tracking, and payment gateway integration.</p>
+> <p><code>Visual Basic .NET</code> <code>POS</code> <code>Cashier</code> <code>MIT License</code></p>
+
+> <h3>📄 Insurance-Plus</h3>
+> <p>Sudanese car insurance offices management system.</p>
+> <p><code>PHP</code> <code>MIT License</code></p>
+
+> <h3>📊 Acco (Accounts System)</h3>
+> <p>ACCO accounts system tailored for the insurance sector and enterprise financial security.</p>
+> <p><code>Visual Basic 6.0</code> <code>MIT License</code></p>
+
+> <h3>🎨 Mageet-Media</h3>
+> <p>Mageet Media corporate web site design and brand identity showcase.</p>
+> <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>Java</code> <code>MIT License</code></p>
 
 ---
 
