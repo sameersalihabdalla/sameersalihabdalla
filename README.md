@@ -1,6 +1,11 @@
-<h1 align="center">👨‍💻 Sameer Salih Abdalla</h1>
+<h1 align="center">👨‍💻 SAMEER SALIH ABDALLA OSMAN</h1>
 <p align="center">
-  <strong>Senior Programmer, Web Developer & Systems Analyst</strong>
+  <strong>INSURANCE TECHNOLOGY SPECIALIST</strong><br>
+  <em>Senior Insurance Systems Analyst | Licensed Insurance Producer | Software Developer</em>
+</p>
+
+<p align="center">
+  📍 Sudan, Khartoum
 </p>
 
 <p align="center">
@@ -13,93 +18,115 @@
 
 ---
 
-## 🧠 Professional Summary
+## 📌 Personal Details
+* **Nationality:** Sudanese
+* **Marital Status:** Single
+* **Phones:** `+249999249900` | `+249123539900` | `+249118539900` | `+249912230352`
+* **Email:** [sameerssaom@gmail.com](mailto:sameerssaom@gmail.com)
+* **Live Website:** [sais.byethost10.com](http://sais.byethost10.com/)
 
-Versatile and detail-oriented Systems Analyst and Full-Stack Developer with over a decade of experience designing, developing, and maintaining robust software solutions. Proven track record in building specialized enterprise systems, including digital banking platforms, insurance management portals, recruitment boards, and point-of-sale software. Expert in database optimization, secure web applications, and cross-platform architecture, combining technical excellence with strategic business operations.
+---
+
+## 🧠 Professional Summary
+A highly experienced **Insurance Technology Specialist and Software Developer** with over 17 years of proven experience in motor insurance operations, underwriting, policy issuance, vehicle inspection, customer service, insurance systems administration, and digital transformation initiatives. 
+
+Combines extensive insurance industry expertise with strong software development, database engineering, and business process automation skills. Licensed Insurance Producer accredited by the Sudan Insurance Supervisory Authority, with hands-on experience in specialized insurance systems including **Phoenix**, **Aman**, and regulatory insurance platforms. Proven ability to design, develop, and implement innovative insurance and business management solutions using modern technologies, database systems, and advanced reporting tools.
+
+---
+
+## 🏆 Key Achievements
+* Over 17 years of experience in motor insurance operations and insurance systems.
+* Contributed to the computerization and digital transformation of motor insurance operations in Sudan.
+* Developed and managed the **ACCO** integrated insurance accounting and customer management platform.
+* Designed **Insurance PLUS**, an emergency insurance documentation solution capable of operating during crisis conditions.
+* Founded and developed **JobsAgent** employment platform.
+* Developed multiple insurance, HR, office management, and POS systems.
+* Licensed Insurance Producer accredited by the Sudan Insurance Supervisory Authority.
+
+---
+
+## 💼 Professional Experience
+
+### 🔹 Insurance Systems Developer, Office Manager & Technical Insurance Administrator
+**Al-Ertiga Insurance Co. Ltd | Khartoum, Sudan** *(February 2026 – August 2026)*
+* Managed technical and office operations within the insurance sector.
+* Supervised policy issuance, insurance documentation, and administrative workflows.
+* Analyzed insurance business requirements and aligned them with software solutions.
+* Enhanced operational efficiency through process improvement and system optimization.
+
+### 🔹 Independent Web Developer & Founder
+**JobsAgent Platform | Port Sudan, Sudan** *(2023 – 2024)*
+* Founded and developed JobsAgent employment and services platform ([www.jobsagent.org](https://www.jobsagent.org)).
+* Designed system architecture and database structure.
+* Managed development, deployment, and maintenance activities.
+
+### 🔹 Systems Programming & Insurance Software Development
+**Sudanese Insurance & Reinsurance Co. Ltd (SUDINRECO) - Cars Department | Khartoum, Sudan** *(2013 – 2023)*
+* Contributed to the computerization and modernization of motor insurance operations.
+* Worked extensively with **Phoenix** and **Aman** insurance systems.
+* Developed automated solutions supporting underwriting and policy issuance processes.
+* Designed and maintained internal insurance software systems.
+* Trained users and supervised software implementation activities.
+* **Major Achievement — ACCO Project (2013 – 2023):** Developed and managed an integrated network-based accounting and customer management system serving customers, agents, and producers within the insurance sector (Systems Analysis, Database Design, User Training, Technical Support, Software Testing, Implementation & Deployment, System Administration).
+
+### 🔹 Independent Systems Developer & Programmer
+**Specialized Projects** *(2015 – Present)*
+* Designed and developed specialized business and insurance software solutions.
+* Built emergency offline systems capable of operating during crisis and wartime conditions.
+* Developed a Human Resources Management System for Addition for Disasters Assistance and Development (**ADD**).
+
+### 🔹 Insurance Sales, Customer Service & Automated Inspection Officer
+**Sudanese Insurance & Reinsurance Co. Ltd (SUDINRECO) - Bahri Branch & Southern Automated Inspection Office** *(2009 – 2017)*
+* Issued comprehensive and third-party motor insurance policies.
+* Managed customer relationships and insurance sales operations.
+* Provided customer support and insurance consultation services.
+* Managed technical operations at the automated vehicle inspection office.
+
+---
+
+## 🚀 Key Technical & Insurance Projects
+* **Smart Auto Insurance System (SAIS) | 2025 – 2026:** Advanced smart platform for managing and automating motor insurance operations.
+* **Insurance PLUS | 2024:** Innovative third-party insurance documentation system designed for crisis and wartime environments.
+* **ACCO Project | 2013 – 2023:** Integrated accounting, customer management, and producer management platform for insurance operations.
+* **Pro Insurance & Car Insurance Office Management System:** Complete solutions for policy issuance, underwriting processes, and insurance office management.
+* **ClientsManager & EsaStore:** Systems for customer document management and Point of Sale (POS) operations.
+* **Web Platforms Founder & Developer:** [JobsAgent](https://www.jobsagent.org), SudaneseJobs, Cafori.
+
+---
+
+## 📜 Professional Licenses & Certifications
+* **Accredited Insurance Producer (Sub-Agent):** Issued by the National Insurance Supervisory Authority, Republic of Sudan | **License No.: 1230** *(Renewed through African Insurance Company & SUDINRECO)*
+* **Car Insurance Policy Issuance Regulations Workshop Certificate:** Issued by the Insurance Control Authority *(April 2014)*
+* **CCNA Networking:** Soft Star Training Center *(60 Accredited Training Hours)*
+* **CCTV Systems:** KYM Technology *(Design, installation, configuration, and troubleshooting)*
+* **TeraCourses Certifications:** 
+  * Laravel *(Certificate ID: 112914)*
+  * Kotlin *(Certificate ID: 104309)*
+  * Google Blogger *(Certificate ID: 182051)*
+  * Communication Skills *(Certificate ID: 112832)*
+* **Driving & Road Safety Qualification:** Sudanese Academy for Roads and Traffic
+
+---
+
+## 🎓 Education
+* **Bachelor of Science (B.Sc.) in Computer Science**
+  * Sharq Elnile College | Khartoum, Sudan
+  * **Graduation Year:** 2012 | **GPA:** `3.46 / 4.00`
 
 ---
 
 ## 🛠️ Technical Skills
 
-| Category | Technologies & Tools |
+| Category | Technologies & Competencies |
 | :--- | :--- |
-| 💻 **Languages** | `PHP`, `JavaScript`, `HTML5`, `CSS3`, `VB.NET`, `VB6`, `Kotlin`, `C#`, `C++`, `SQL` |
-| 🚀 **Frameworks & CMS** | `Laravel`, `Flutter`, `WordPress`, `Blogger` |
-| 🗄️ **Databases & Tools** | `MySQL`, `phpMyAdmin`, `SQLyog`, `VS Code`, `Android Studio`, `Visual Studio` |
-| 🎨 **Design & UI/UX** | `Adobe Photoshop`, `Adobe XD`, `Adobe Illustrator`, `Corel Draw` |
-| 🌐 **Networks & Systems** | `CCNA`, `Cisco Packet Tracer`, `Windows`, `Linux`, `macOS` |
+| 🛡️ **Insurance Systems & Operations** | `Underwriting`, `Motor Insurance`, `Third-Party Insurance`, `Comprehensive Insurance`, `Insurance Computerization`, `Office Management`, `Phoenix System`, `Aman System`, `Regulatory Systems` |
+| 💻 **Software Development** | `PHP`, `Laravel`, `JavaScript`, `HTML5`, `CSS3`, `AJAX`, `WordPress`, `C#`, `VB.NET`, `Kotlin`, `Flutter`, `Dart` |
+| 🗄️ **Databases & Systems Engineering** | `MySQL`, `SQL Server`, `Microsoft Access`, `SQLyog`, `Database Design`, `Systems Analysis`, `Business Process Automation` |
+| 📊 **Reporting & Analytics** | `Crystal Reports`, `ActiveReports`, `Data Analysis`, `Business Reporting` |
+| 🌐 **Networking & Infrastructure** | `CCNA`, `Cisco Packet Tracer`, `CCTV Systems`, `Hardware Maintenance`, `Windows Admin`, `Linux Admin`, `macOS Admin` |
 
 ---
 
-## 💼 Work Experience
-
-* 🚀 **Founder & Lead Developer** | [JobsAgent.org](https://www.jobsagent.org) *(2023 – Present)*
-* 💼 **Senior Programmer** | Sudanese Reinsurance Company (SUDINRECO) *(2013 – 2023)*
-* 🌐 **Web Developer** | Cafori.com *(2020)*
-* 💻 **Programmer** | ADD Organization *(2019)*
-* 📄 **Web Developer** | SudaneseJobs.com *(2018)*
-* 🎨 **UI Developer** | Mageet Media *(2016)*
-* 👁️ **Programmer (Remote)** | Guardian Eyes - Jeddah, KSA *(2015)*
-* 🛡️ **Insurance Sales Agent** | Sudanese Reinsurance Company *(2009 – 2017)*
-
----
-
-## 🚀 Key Projects & Repositories
-
-<table width="100%">
-<tr>
-  <td width="50%">
-    <h3>💳 Smarter-Pay</h3>
-    <p>Advanced digital banking and secure mobile payment platform featuring NFC contactless payments and cryptographic receipt verification.</p>
-    <p><code>Flutter</code> <code>PHP</code> <code>MySQL</code></p>
-  </td>
-  <td width="50%">
-    <h3>🛡️ SAIS-SYS (Smart Auto Insurance)</h3>
-    <p>Smart auto insurance automation platform for third-party policies and comprehensive vehicle records management.</p>
-    <p><code>PHP 7/8</code> <code>MySQL</code> <code>Insurance</code></p>
-  </td>
-</tr>
-<tr>
-  <td>
-    <h3>🛒 Sampharma-System</h3>
-    <p>Comprehensive point of sale (POS) and cashier system tailored for enterprise business and large pharmacies.</p>
-    <p><code>VB.NET</code> <code>MySQL</code> <code>Stock Mgmt</code></p>
-  </td>
-  <td>
-    <h3>💼 JobsAgent Platform</h3>
-    <p>Advanced job board platform and recruitment management portal designed for high-traffic user experience.</p>
-    <p><code>PHP 7</code> <code>MySQL</code> <code>Web</code></p>
-  </td>
-</tr>
-<tr>
-  <td>
-    <h3>🚗 Missing-Cars-Recovery</h3>
-    <p>Specialized tracking and engine database management system built for missing cars recovery records.</p>
-    <p><code>PHP</code> <code>HTML5 Canvas</code> <code>MySQL</code></p>
-  </td>
-  <td>
-    <h3>📊 Acco (Accounts System)</h3>
-    <p>Enterprise accounting database platform tailored specifically for the financial and insurance sector.</p>
-    <p><code>VB 6.0</code> <code>Accounting</code></p>
-  </td>
-</tr>
-</table>
-
-*(Explore more of my repositories on my profile list below or visit my [Live Website](http://sais.byethost10.com/).)*
-
----
-
-## 🎓 Education & Certifications
-
-* **B.Sc. in Computer Science** | Sharq Elnile College, Khartoum *(2012 | GPA: 3.46 / 4.00)*
-* 🌐 **CCNA** – Soft Star
-* 🛡️ **CCTV Systems Engineering** – KYM Technology
-* 🤖 **Kotlin Mobile Development** & **Laravel Framework (Advanced)** – TERACOURSES
-
----
-
-## 📞 Get In Touch
-
-* **Phone:** `+249999249900` | `+249123539900`
-* **Email:** [sameerssaom@gmail.com](mailto:sameerssaom@gmail.com)
-* **Live Website:** [sais.byethost10.com](http://sais.byethost10.com/)
+## 🗣️ Languages
+* **Arabic:** Native
+* **English:** Professional Working Proficiency
