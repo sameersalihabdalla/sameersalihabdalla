@@ -20,8 +20,7 @@
 
 ## 📌 Personal Details
 * **Nationality:** Sudanese
-* **Marital Status:** Single
-* **Phones:** `+249999249900` | `+249123539900` | `+249118539900` | `+249912230352`
+* **Phones:** `+249999249900`
 * **Email:** [sameerssaom@gmail.com](mailto:sameerssaom@gmail.com)
 * **Live Website:** [sais.byethost10.com](http://sais.byethost10.com/)
 
